@@ -1,2 +1,2 @@
 # php
-Neste espeção vou postar projetos em php
+Neste espaço vou postar projetos em php
